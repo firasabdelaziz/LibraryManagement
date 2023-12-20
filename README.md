@@ -1,6 +1,6 @@
 # Library Management Backend Application in 1:30h 📚🚀
 
-Dive into our briskly developed library management system, created in just 1 hour and 30 minutes! 🕒
+Dive into our briskly developed library management system with Spring boot, created in just 1 hour and 30 minutes! 🕒
 
 ## Part I: Database Schema
 
