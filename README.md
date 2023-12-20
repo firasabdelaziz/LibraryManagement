@@ -6,7 +6,8 @@ Dive into our briskly developed library management system, created in just 1 hou
 
 We've crafted a MySQL database schema encompassing dynamic entities such as LibraryCard, Student, Reservation, Status (ACTIVE/EXPIRED), Author, and Book. Identifiers are seamlessly generated with a touch of automation.
 
-https://www.plantuml.com/plantuml/svg/ZL9DQyCm3BtxL-YyaJyGIcdNzX0eOtGVxEh6Qclcs239Wr7stnV7wU8nDdgAz2o_z_Ba1OicYPrJ3Wy24e3iyIHWB64hDdYbMgUPOHdb50ZE2k1M3tKDBlXZwW-MMEvrXpKy2jaCElqRsuVmjhKiFOOok-kxkVgyAAGsyrlU-ubThBWVB8ICzAwJEwuXySrs4rGmRksUD7siD9bCtFPLOoPg5YsH4tVwZWZ9MWlsnA7LBfKPZmPzCfwBIQIGpYA5lMQTjVvZHc-kqHlJguUO9lNn6Cx5fSPSlPhhGqtNfZWl8qN2G-xeOpUcELXQhfwQbqrVR5uVcjrcdMR6brHLyxpo6fwz_Nvlsi6IERHsq5N3H5MTovZL-DD_uZVfe5o-AfkgkZYi8J8gjK1lOkU-0000
+![DiagrammeClasse](https://github.com/firasabdelaziz/biblioManagement/assets/68626442/9f3a4434-3810-4573-903d-d65fb73ba4ab)
+
 
 ## Part II: Services and REST Controllers
 
